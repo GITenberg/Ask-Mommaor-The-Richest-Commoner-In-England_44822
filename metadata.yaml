@@ -5,7 +5,7 @@ contributor:
     agent_name: Leech, John
     alias: Leech, J. (John)
     birthdate: 1817
-    deathdate: &id001 1864
+    deathdate: 1864
     gutenberg_agent_id: '9473'
     url: http://www.gutenberg.org/2009/agents/9473
     wikipedia: http://en.wikipedia.org/wiki/John_Leech_%28caricaturist%29
@@ -17,11 +17,13 @@ creator:
     agent_name: Surtees, Robert Smith
     alias: Surtees, R. S. (Robert Smith)
     birthdate: 1805
-    deathdate: *id001
+    deathdate: 1864
     gutenberg_agent_id: '6028'
     url: http://www.gutenberg.org/2009/agents/6028
     wikipedia: http://en.wikipedia.org/wiki/Robert_Smith_Surtees
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44822#Ask-Mommaor-The-Richest-Commoner-In-England
 gutenberg_issued: '2014-02-02'
 gutenberg_type: Text
 identifiers:
