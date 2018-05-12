@@ -1,0 +1,38 @@
+_repo: Ask-Mommaor-The-Richest-Commoner-In-England_44822
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Leech, John
+    alias: Leech, J. (John)
+    birthdate: 1817
+    deathdate: &id001 1864
+    gutenberg_agent_id: '9473'
+    url: http://www.gutenberg.org/2009/agents/9473
+    wikipedia: http://en.wikipedia.org/wiki/John_Leech_%28caricaturist%29
+covers:
+- cover_type: archival
+  image_path: 44822-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Surtees, Robert Smith
+    alias: Surtees, R. S. (Robert Smith)
+    birthdate: 1805
+    deathdate: *id001
+    gutenberg_agent_id: '6028'
+    url: http://www.gutenberg.org/2009/agents/6028
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Smith_Surtees
+description: ''
+gutenberg_issued: '2014-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44822'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Fox hunting -- Fiction'
+title: '"Ask Mamma"; or, The Richest Commoner In England'
+url: http://www.gutenberg.org/ebooks/44822
