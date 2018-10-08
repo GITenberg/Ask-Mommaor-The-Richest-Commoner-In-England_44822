@@ -1,4 +1,4 @@
-The Project Gutenberg EBook of Ask Momma, by R. S. Surtees
+The Project Gutenberg EBook of Ask Mamma, by R. S. Surtees
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -6,7 +6,7 @@ re-use it under the terms of the Project Gutenberg License included
 with this eBook or online at www.gutenberg.org
 
 
-Title: Ask Momma
+Title: Ask Mamma
        or The Richest Commoner In England
 
 Author: R. S. Surtees
@@ -19,7 +19,7 @@ Language: English
 
 Character set encoding: ASCII
 
-*** START OF THIS PROJECT GUTENBERG EBOOK ASK MOMMA ***
+*** START OF THIS PROJECT GUTENBERG EBOOK ASK MAMMA ***
 
 
 
@@ -34,7 +34,7 @@ provided by the Internet Archive
 
 
 
-ASK MOMMA, or THE RICHEST COMMONER IN ENGLAND
+ASK MAMMA, or THE RICHEST COMMONER IN ENGLAND
 
 By R. S. Surtees
 
@@ -18557,9 +18557,9 @@ THE END.
 
 
 
-End of the Project Gutenberg EBook of Ask Momma, by R. S. Surtees
+End of the Project Gutenberg EBook of Ask Mamma, by R. S. Surtees
 
-*** END OF THIS PROJECT GUTENBERG EBOOK ASK MOMMA ***
+*** END OF THIS PROJECT GUTENBERG EBOOK ASK MAMMA ***
 
 ***** This file should be named 44822.txt or 44822.zip *****
 This and all associated files of various formats will be found in:
